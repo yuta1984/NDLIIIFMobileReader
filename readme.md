@@ -1,4 +1,4 @@
-# NDLMobileReader
+# NDLIIIFMobileReader
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fa89e537-e867-4888-9258-044adbf5d097/deploy-status)](https://app.netlify.com/sites/ndl-mobile-reader/deploys)
 
@@ -12,7 +12,7 @@
 
 ## モバイルアプリ化
 
-本リーダーを組み込んだiOS/Android対応のモバイルリーダー「じせデジリーダー」を開発中です（2024年度中に公開予定）．じせデジリーダーに収録予定の資料リストコンテンツを下記URLでオープンデータとして公開しています（CC B' 4.0）．
+本リーダーを組み込んだiOS/Android対応のモバイルリーダー「じせデジリーダー」を開発中です（2024年度中に公開予定）．じせデジリーダーに収録予定の資料リストコンテンツを下記URLでオープンデータとして公開しています（CC BY 4.0）．
 
 https://docs.google.com/spreadsheets/d/e/2PACX-1vRwCZ6AwKlzyhCAgI1vonFp8b9MktkZ_R5R2Xn6NET4gVjg_5MJhnrZuAnklBNLFSb-yzTqYl2ZMrfz/pubhtml
 
