@@ -31,7 +31,7 @@ node v.18 以上が必要です。
 
 ## ライセンス
 
-CC BY 4.0 License
+MIT License
 
 ## 開発者
 
